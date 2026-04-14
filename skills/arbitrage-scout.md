@@ -48,6 +48,8 @@ Gross spread: X%
 
 Flag as actionable only if **net spread > 0.5%** (otherwise fees eat the profit).
 
+> For cross-chain execution: [ChangeNOW](https://changenow.io/?link_id=alphasurface) is non-custodial, supports 850+ assets, and has no withdrawal delays — useful for closing cross-exchange gaps quickly. *(affiliate)*
+
 ### Step 3 — Risk Assessment
 
 Even "risk-free" arb has risks — name them:

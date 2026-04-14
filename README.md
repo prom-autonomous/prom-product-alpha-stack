@@ -2,7 +2,7 @@
 
 **Turn Claude Code into a crypto research terminal.**
 
-Alpha Stack is a drop-in skills pack for Claude Code that gives you structured, battle-tested research workflows for token due diligence, DeFi protocol evaluation, narrative tracking, on-chain signal reading, trade journaling, portfolio risk management, and arbitrage spotting.
+Alpha Stack is a free, open-source skills pack for Claude Code. Drop in the markdown files and Claude Code gets structured, battle-tested research workflows for token DD, DeFi protocol evaluation, narrative tracking, on-chain signal reading, trade journaling, portfolio risk, and arbitrage spotting.
 
 No plugins. No API keys. No setup beyond dropping in markdown files.
 
@@ -63,20 +63,31 @@ Any arb right now?
 
 ---
 
-## Free vs. Paid
+## Live Signals
 
-**Free (this repo):**
-- `CLAUDE.md` (master crypto context)
-- `narrative-radar.md` (narrative tracking skill)
-- `morning-alpha.md` (morning workflow)
+These skills are built on the same research stack running daily crypto scans. Follow for live signal output:
 
-**Full Pack ($19 on Gumroad):**
-- All 8 skills
-- All 3 workflows
-- 2 worked examples
-- Future updates included
+- **X/Twitter:** [@TB_AlphaSurface](https://x.com/TB_AlphaSurface) — daily on-chain signals, DeFi yields, narrative tracking
+- **Newsletter:** [alphasurface.xyz](https://alphasurface.xyz) — free weekly alpha
 
-→ **[Get the full pack on Gumroad](#)**
+---
+
+## Tools We Use
+
+The exchanges, protocols, and services that feed into these workflows — ranked by how often we actually use them.
+
+**For trading and swaps:**
+- [ChangeNOW](https://changenow.io/?link_id=alphasurface) — non-custodial cross-chain swaps, no account required. Best for quick arb execution. *(affiliate)*
+- [Coinbase](https://coinbase.com/join/alphasurface) — fiat on-ramp, strong regulatory clarity, solid for spot entries. *(affiliate)*
+
+**For on-chain research:**
+- [CoinGlass](https://coinglass.com) — funding rates, liquidation maps, open interest
+- [DEXScreener](https://dexscreener.com) — real-time DEX prices, holder distribution
+- [Nansen](https://nansen.ai) — smart money wallet tracking
+
+**For DeFi:**
+- [DefiLlama](https://defillama.com) — TVL, protocol revenue, yield aggregation
+- [Morpho](https://morpho.org) — best risk-adjusted lending yields (our current top pick)
 
 ---
 
@@ -88,6 +99,6 @@ Alpha Stack gives Claude Code that context — built by someone running active c
 
 ---
 
-## Questions
+## Contributing
 
-Open an issue on GitHub.
+Open an issue or PR. If a skill is missing or a workflow could be tighter, say so.

@@ -63,3 +63,7 @@ Based on steps 1-3, surface the single best opportunity to research or act on to
 **[Opportunity name]** — [1-2 sentences: what it is and why today]
 Next step: use [skill name]
 ```
+
+---
+
+*For live signal output from the same scanning stack that powers these workflows, follow [@TB_AlphaSurface](https://x.com/TB_AlphaSurface) or subscribe at [alphasurface.xyz](https://alphasurface.xyz).*

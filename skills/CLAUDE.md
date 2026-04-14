@@ -31,3 +31,7 @@ Load a skill by referencing it: "Use the token-research skill for $TOKEN" or jus
 ## Tone
 
 Direct. No hedging. No filler. If the answer is "this looks like a rug", say so. If the opportunity is real, say why and how to size it.
+
+---
+
+*Alpha Stack is maintained by [AlphaSurface](https://alphasurface.xyz). Follow [@TB_AlphaSurface](https://x.com/TB_AlphaSurface) for live signal output.*
